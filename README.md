@@ -5,21 +5,21 @@ Welcome to my GitHub profile! Here's a little about me and what I do:
 ## 🚀 About Me
 - 💻 **Developer**: Passionate about software development and solving real-world problems with code.
 - 🌱 **Learning**: Constantly learning new technologies and improving my skills.
-- 🔭 **Working On**: Exciting projects in [your area of expertise, e.g., web development, AI, etc.].
+- 🔭 **Working On**: Exciting projects in [Waiting.].
 - 🎯 **Goal**: To make meaningful contributions to open-source and build impactful products.
 
 ## 💼 Skills
-- **Languages**: [List programming languages here, e.g., JavaScript, Python, etc.]
-- **Frameworks & Tools**: [List frameworks and tools here, e.g., React, Node.js, Docker, etc.]
+- **Languages**: [Html,JavaScript, Python, etc.]
+- **Frameworks & Tools**: [React.js, Node.js,Git etc.]
 - **Other Skills**: [e.g., Database Management, Cloud Computing, etc.]
 
 ## 📈 GitHub Stats
 ![SanjayKumarDevipujak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjayKumarDevipujak&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
-- **Email**: [Your email address]
-- **LinkedIn**: [Your LinkedIn profile URL]
-- **Website/Portfolio**: [Your portfolio or personal website URL, if any]
+- **Email**: [sanjaybhaiofficial31@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/sanjaykumar-devipujak-7aa952365]
+- **Website/Portfolio**: [https://resume-website-ruby-two.vercel.app/]
 
 ## 🌟 Highlighted Projects
 Here are some of my favorite or most recent projects:
@@ -31,6 +31,6 @@ Here are some of my favorite or most recent projects:
 - Open-source enthusiast: [Highlight your contributions if applicable].
 
 ## 🌈 Fun Facts
-- [Add something fun about yourself, e.g., "I love hiking and photography."]
+- "I love Ai-Assisted Coding."
 
 Thanks for visiting my profile! Feel free to connect or explore my repositories. 😊
