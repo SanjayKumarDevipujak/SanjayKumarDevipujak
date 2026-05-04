@@ -7,8 +7,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SanjayKumar&fontSize=42&fontColor=00D9FF&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20ML%20%7C%20Python%20Learner&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
 
 <!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=SanjayKumar&label=Profile+Views&color=00d9ff&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/SanjayKumar?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/SanjayKumar)
+![Profile Views](https://komarev.com/ghpvc/?username=SanjayKumarDevipujak&label=Profile+Views&color=00d9ff&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/SanjayKumarDevipujak?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/SanjayKumar)
 
 </div>
 
@@ -44,9 +44,9 @@ me.say_hi()
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanjayKumar/SanjayKumar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjayKumar/SanjayKumar/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SanjayKumar/SanjayKumar/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanjayKumarDevipujak/SanjayKumarDevipujak/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjayKumarDevipujak/SanjayKumarDevipujak/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SanjayKumarDevipujak/SanjayKumarDevipujak/output/github-snake.svg" />
   </picture>
 </div>
 
