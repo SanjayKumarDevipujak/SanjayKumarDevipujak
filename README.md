@@ -46,7 +46,7 @@ me.say_hi()
 | Status | Goal |
 |--------|------|
 | ✅ | Learn Python basics & OOP |
-| ✅ | Understand NumPy & Pandas |
+| 🔄 | Understand NumPy & Pandas |
 | 🔄 | Master Python for Data Science |
 | 🔄 | Complete ML fundamentals (Scikit-learn) |
 | ⬜ | Build my first ML model from scratch |
@@ -88,10 +88,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanjayKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=10" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayKumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SanjayKumarDevipujak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=10" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayKumarDevipujak&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=10" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKumarDevipujak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=10" width="40%" />
 
 </div>
 
@@ -102,7 +102,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SanjayKumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SanjayKumarDevipujak&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -166,11 +166,11 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SanjayKumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayKumar-kankodiya)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SanjayKumar)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/SanjayKumar)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaykumar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayKumar)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaybhaiofficial31@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayKumarDevipujak)
 
 </div>
 
