@@ -39,20 +39,6 @@ me.say_hi()
 
 ---
 
-<!-- Snake Animation -->
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanjayKumarDevipujak/SanjayKumarDevipujak/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjayKumarDevipujak/SanjayKumarDevipujak/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SanjayKumarDevipujak/SanjayKumarDevipujak/output/github-snake.svg" />
-  </picture>
-</div>
-
-> ⚙️ **Setup Snake:** Add a GitHub Action to generate the snake. See [Platane/snk](https://github.com/Platane/snk) for instructions.
-
----
 
 <!-- 2025 Goals -->
 ## 🎯 2025 Goals
