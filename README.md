@@ -1,186 +1,71 @@
-<!-- Header -->
-<div align="center">
+# Hi there, I'm Sanjay Kumar 👋
 
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+SanjayKumar+%F0%9F%91%8B;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Python+Learner+%F0%9F%90%8D;Future+Data+Scientist+%F0%9F%9A%80;Building+the+future+with+AI+%E2%9C%A8)](https://git.io/typing-svg)
+ Founder of SystemicX • Flutter Developer • Indie Product Builder
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SanjayKumar&fontSize=42&fontColor=00D9FF&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20ML%20%7C%20Python%20Learner&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
+I build practical software that solves real-world problems.
 
-<!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=SanjayKumarDevipujak&label=Profile+Views&color=00d9ff&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/SanjayKumarDevipujak?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/SanjayKumar)
-
-</div>
+My focus is creating clean, fast, and user-friendly applications using **Flutter**, with an emphasis on thoughtful product design, maintainable architecture, and long-term quality. I enjoy turning ideas into polished products by combining software engineering with modern AI-assisted development workflows.
 
 ---
 
-<!-- About Me -->
-## 🧠 About Me
+ 🚀 What I'm Building
 
-```python
-class SanjayKumar:
-    def __init__(self):
-        self.name       = "Sanjay Kumar"
-        self.role       = "AI/ML Enthusiast & Python Learner"
-        self.location   = "India 🇮🇳"
-        self.languages  = ["Python 🐍", "Learning more..."]
-        self.interests  = ["Artificial Intelligence", "Machine Learning",
-                           "Deep Learning", "Data Science"]
-        self.currently  = "Mastering Python & ML Fundamentals"
-        self.goal       = "Build impactful AI solutions 🚀"
-        self.fun_fact   = "I think AI will change the world, and I want to be part of it!"
+ 📱 DueBook
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's learn & grow together 🤝")
+A modern offline-first lend & borrow tracker that helps people manage personal debts with a simple and intuitive experience.
 
-me = SanjayKumar()
-me.say_hi()
-```
+ 🧩 NodeCore
 
----
-Current Project : https://devsetup-icnl9sbab-sanjaybhaiofficial31-gmailcoms-projects.vercel.app/
-
-<!-- 2025 Goals -->
-## 🎯 2025 Goals
-
-| Status | Goal |
-|--------|------|
-| ✅ | Learn Python basics & OOP |
-| 🔄 | Understand NumPy & Pandas |
-| 🔄 | Master Python for Data Science |
-| 🔄 | Complete ML fundamentals (Scikit-learn) |
-| ⬜ | Build my first ML model from scratch |
-| ⬜ | Learn Deep Learning with TensorFlow / PyTorch |
-| ⬜ | Complete a Kaggle competition |
-| ⬜ | Contribute to an Open Source AI project |
-| ⬜ | Build & deploy an AI web app |
-| ⬜ | Earn a Data Science / ML certification |
+An offline-first knowledge organization platform for Android and Windows that connects projects, ideas, documents, websites, accounts, research, and digital assets into a structured information system.
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
+## 💻 Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 📊 Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### 🧪 Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* Flutter
+* Dart
+* SQLite
+* Firebase (when needed)
+* Git & GitHub
+* REST APIs
+* Material Design
+* Android Development
+* Windows Desktop Development
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+## 🛠 Development Philosophy
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SanjayKumarDevipujak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=10" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayKumarDevipujak&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKumarDevipujak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=10" width="40%" />
-
-</div>
+* Build products that solve real problems.
+* Keep interfaces simple and intuitive.
+* Prefer maintainable architecture over shortcuts.
+* Optimize for performance and accessibility.
+* Ship, learn from users, and iterate continuously.
 
 ---
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
+## 🌱 Currently Learning
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SanjayKumarDevipujak&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- AI/ML Roadmap -->
-## 🗺️ My AI/ML Learning Roadmap
-
-```
-🟢 COMPLETED          🔵 IN PROGRESS        ⚪ UPCOMING
-─────────────────────────────────────────────────────────────
-
-🟢 Python Basics ──► 🟢 OOP & Functions ──► 🟢 NumPy & Pandas
-                                                      │
-                                                      ▼
-⚪ Deep Learning ◄── ⚪ Neural Nets ◄── 🔵 Scikit-learn & ML Basics
-       │
-       ▼
-⚪ TensorFlow / PyTorch ──► ⚪ NLP & Computer Vision
-                                        │
-                                        ▼
-                            ⚪ Real Projects & Kaggle
-                                        │
-                                        ▼
-                             ⚪ Deploy AI Apps 🚀
-```
+* Advanced Flutter architecture
+* Performance optimization
+* App monetization
+* Product design
+* AI-assisted software engineering
+* Building sustainable indie businesses
 
 ---
 
-<!-- Coming Soon Projects -->
-## 📌 Coming Soon — ML Projects
+## 📈 Goals
 
-<div align="center">
-
-| 🚧 Project | 📋 Description | 🛠️ Stack |
-|-----------|---------------|---------|
-| 🤖 **ML Price Predictor** | Predict house/product prices using regression | Python, Scikit-learn, Pandas |
-| 🧠 **Image Classifier** | Classify images using CNN | Python, TensorFlow, Keras |
-| 💬 **Sentiment Analyzer** | Analyze text sentiment with NLP | Python, NLTK, Hugging Face |
-| 📊 **Data Dashboard** | Interactive EDA dashboard | Python, Pandas, Matplotlib |
-
-> 🔨 *Currently learning the foundations. Projects dropping soon!*
-
-</div>
+* Publish high-quality apps on Google Play and Microsoft Store.
+* Build a portfolio of useful productivity applications.
+* Grow SystemicX into a trusted software brand.
 
 ---
 
-<!-- Dev Quote -->
-## 💡 Dev Quote of the Day
+## 🤝 Let's Connect
 
-<div align="center">
+I'm always interested in learning, collaborating, and building software that makes everyday life a little simpler.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+best+way+to+predict+the+future+is+to+invent+it.&author=Alan+Kay)](https://github.com/piyushsuthar/github-readme-quotes)
+> "Great products aren't built by adding more features—they're built by solving the right problems."
 
-</div>
-
----
-
-<!-- Connect -->
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayKumar-kankodiya)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SanjayKumar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/SanjayKumar)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaybhaiofficial31@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayKumarDevipujak)
-
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-**⭐ Star my repos if you find them helpful! | Let's build the future with AI together 🤖✨**
-
-</div>
